@@ -2,6 +2,8 @@
 
 A Next.JS portfolio made using Tailwind CSS, Framer motion, Sanity CMS and obviously Next.JS! Although the portfolio contains information about myself this is NOT my portfolio and some of the information on this site is fake and just there as a placeholder. 
 
+Check out the live demo: [Next.JS Portfolio](https://portfolio-tgollick.vercel.app)
+
 ## Technologies Used
 
 - [Next.js](https://nextjs.org/)
